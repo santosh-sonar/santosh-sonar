@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santosh-sonar
+- 👋 Hi, I’m Santosh - @santosh-sonar
 - 👀 I’m interested in DevSecOps tools 
 - 💞️ I’m looking to collaborate on building libraries or frameworks that are useful for Docker, ansible, terraform, CF users 
 - 📫 Reach me on linkedin.com/in/rsbth 
